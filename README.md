@@ -7,7 +7,7 @@ Simple script that sets Telegram user's `last_name` as clock every minute. It us
 
 (`last_name` is empty)
 
-![](https://i.imgur.com/jRWSNs2.png)
+![Screenshot_20230103_205958](https://user-images.githubusercontent.com/83695097/210414779-5840d8f8-4469-40e4-8cdd-da2dcf4a2db3.png)
 
 ## Installation
 At first, go to https://my.telegram.org/ and fill out a form. In this script only `api_id` and `api_hash` params are used.
